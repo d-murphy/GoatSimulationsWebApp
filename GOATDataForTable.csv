@@ -1,0 +1,961 @@
+"Team","Year","AveragePoints","OverallFirstPlace","OverallTop5","OverallResult","ThreeManLadderFirstPlace","ThreeManLadderTop5","ThreeManLadderAverage","BLadderFirstPlace","BLadderTop5","BLadderAverage","CLadderFirstPlace","CLadderTop5","CLadderAverage","CHoseFirstPlace","CHoseTop5","CHoseAverage","BHoseFirstPlace","BHoseTop5","BHoseAverage","EfficiencyFirstPlace","EfficiencyTop5","EfficiencyAverage","MotorPumpFirstPlace","MotorPumpTop5","MotorPumpAverage","BucketsFirstPlace","BucketsTop5","BucketsAverage"
+"Brentwood",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Westbury",1996,0.003,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0.2,"0.003",0,0,NA
+"Coram",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Ilion",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"New Hyde Park",1996,1.061,0.1,4.7,"THIRD",0,0,"0",0,0,"0",0,0,"0",0,0,"0",0,0,"0",0,0,NA,0,0.6,"0.012",5.8,35.5,"1.049"
+"Deerfield",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Port Washington",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"East Islip",1996,0.053,NA,0.2,NA,0,0,"0",0,0,NA,0,0,NA,0,0,"0",0,0,"0",0.2,1.8,"0.053",0,0,NA,0,0,"0"
+"Hempstead Flukes",1996,0.014,NA,NA,"SECOND",0,0,NA,0,0,NA,0,0,"0",0,0,"0",0,0,NA,0,0,"0",0,0.6,"0.014",0,0,NA
+"Cutchogue",1996,0.159,NA,0.4,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0.5,6.1,"0.159",0,0,NA,0,0,NA
+"Selden",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Oyster Bay TB",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Point Pleasant",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Bay Shore",1996,0.118,NA,0.5,NA,0,0,"0",0,0,"0",0,0,"0",0,0,"0",0.6,4.1,"0.118",0,0,"0",0,0,NA,0,0,NA
+"Sayville",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Islip",1996,0,NA,NA,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Roslyn",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Patchogue",1996,0.82,0.2,3.8,"FOURTH",0,0,"0",0,0,NA,0,0,NA,0,0,"0",2.6,23.9,"0.67",0,0,"0",1.2,4.3,"0.15",0,0,"0"
+"Clayton",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Spencerport",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"East Farmingdale",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Holbrook",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Barnard",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Levittown",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Central Islip",1996,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Inwood",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hamlin",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Carle Place",1996,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Hewlett",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Merrick",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Manhasset-Lakeville",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Syosset",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Riverhead",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Wyandanch",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Babylon",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Islip",1996,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,"0",0,0,NA
+"Union Hose",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Carthage",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Lindenhurst",1996,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,"0"
+"Hempstead Yellow Hornets",1996,0.035,NA,NA,NA,0,1.3,"0.02",0,0,"0",0,0.8,"0.012",0,0,NA,0,0,NA,0,0.1,"0.003",0,0,NA,0,0,NA
+"Sea Breeze",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Henrietta",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Main-Transit",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Lake Placid",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Bayport",1996,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA
+"West Hempstead",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Elmont",1996,0,NA,NA,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hicksville",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Freeport",1996,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Lindenhurst",1996,0.722,0.5,3.2,"FIRST",2,12.2,"0.393",0.2,3.6,"0.082",0,0,"0",0,0,"0",0.5,4.6,"0.13",0,0,"0",0,3.9,"0.079",0.1,1.9,"0.038"
+"West Sayville",1996,0.873,0.2,4.1,"FIFTH",4.2,24.1,"0.752",0,3.4,"0.07",0,0,"0",0,0,"0",0,0.5,"0.007",0,0,"0",0,0.9,"0.021",0,1.2,"0.023"
+"North Bellmore",1996,0.003,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0.2,"0.003",0,0,NA,0,0,NA
+"Saint James",1996,0.062,NA,0.2,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA,0.3,2.3,"0.062",0,0,NA
+"East Islip",1997,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,"0",0,0,"0",0,0,"0",0,0,"0",0,0,NA,0,0,NA
+"Farmingville",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Port Washington",1997,0.106,NA,0.4,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0.7,3.5,"0.106",0,0,NA
+"Syosset",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"New Hyde Park",1997,0.333,NA,0.6,NA,0,0,NA,0,0,"0",0,0,"0",0,0,NA,0,0,"0",0,0,NA,0,0.1,"0.002",0.7,12.5,"0.331"
+"Riverhead",1997,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0"
+"Merrick",1997,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Clayton",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Mineola",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Oyster Bay TB",1997,0,NA,NA,NA,0,0,"0",0,0,"0",0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA
+"South Hempstead",1997,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Coram",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hempstead Flukes",1997,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Selden",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Glenwood",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Barnard",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Central Islip",1997,0.199,NA,0.4,"FOURTH",0,0,"0",0.1,1.4,"0.033",0,0.9,"0.019",0,0,"0",0,1.1,"0.02",0,0,"0",0,0,NA,0.3,4.7,"0.127"
+"Carle Place",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Holbrook",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Farmingdale",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hewlett",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"East Farmingdale",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Westbury",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Wyandanch",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Deerfield",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hempstead Yellow Hornets",1997,0.1,NA,0.3,"SECOND",0,0,"0",0.3,4.2,"0.1",0,0,"0",0,0,"0",0,0,"0",0,0,NA,0,0,NA,0,0,NA
+"Inwood",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hamlin",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Cutchogue",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Lake Placid",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Bellmore",1997,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"North Babylon",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Copiague",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Baldwin",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Sayville",1997,0.071,NA,NA,"THIRD",0,0,"0",0,1.4,"0.024",0,0,"0",0,0,"0",0,1.3,"0.022",0,0,NA,0,0,NA,0,1.6,"0.025"
+"Roslyn",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Brentwood",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Islip",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Manhasset-Lakeville",1997,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Lindenhurst",1997,0.002,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0.2,"0.002",0,0,NA,0,0,NA,0,0,NA
+"Hicksville",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Levittown",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Spencerport",1997,0,NA,NA,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Bay Shore",1997,0.046,NA,0.2,NA,0,0,"0",0,0,"0",0,0,"0",0,0,"0",0.2,1.8,"0.046",0,0,"0",0,0,NA,0,0,"0"
+"Patchogue",1997,0.355,0.1,2.6,"FIFTH",0,0,"0",0,0,"0",0,0,"0",0,0,"0",3.4,9,"0.34",0,0.4,"0.008",0,0,"0",0,0.3,"0.007"
+"Bayport",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"East Norwich",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Sea Breeze",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Hempstead",1997,0.01,NA,NA,NA,0,0,"0",0,0.4,"0.01",0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Elmont",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Saint James",1997,0.032,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,1.8,"0.032",0,0,"0"
+"Islip Terrace",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Main-Transit",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Lindenhurst",1997,0.427,0.2,1.8,"FIRST",0,3.2,"0.07",0.1,2.4,"0.047",0.1,0.3,"0.007",0,0,"0",0,0,"0",0,0,"0",1.3,6.8,"0.218",0.1,3.8,"0.085"
+"Point Pleasant",1997,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Lindenhurst",1998,0.734,0.3,3.2,"FIRST",0,0.8,"0.018",0,2.5,"0.038",0.8,6.9,"0.19",0,0.1,"0.001",0,0,"0",0,0,NA,0,0.9,"0.022",1.8,16.4,"0.465"
+"Sea Breeze",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Carthage",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Syosset",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Black River",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Roslyn",1998,0,NA,NA,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hempstead Yellow Hornets",1998,0.093,0.2,0.4,"FOURTH",0,0,"0",0,0.4,"0.007",0,0,"0",0,0,"0",0.3,2.3,"0.065",0,1,"0.021",0,0,"0",0,0,NA
+"Barnard",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Holbrook",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hagerman",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"South Hempstead",1998,0.055,NA,0.1,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0.1,2.6,"0.055",0,0,NA,0,0,NA
+"Oyster Bay TB",1998,0,NA,NA,NA,0,0,NA,0,0,"0",0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,"0"
+"Port Washington",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Clayton",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Islip",1998,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"New Hyde Park",1998,0.118,NA,0.2,"FIFTH",0,0,NA,0,0.7,"0.009",0,0,"0",0,0,"0",0,0,"0",0,0,"0",0,0,NA,0.3,4.5,"0.109"
+"West Islip",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Riverhead",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Lindenhurst",1998,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,"0"
+"Saint James",1998,0.001,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,"0",0,0.1,"0.001",0,0,"0"
+"Selden",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Copenhagen",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Cutchogue",1998,0.016,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0.6,"0.016",0,0,NA,0,0,"0"
+"Farmingville",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Central Islip",1998,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Bay Shore",1998,0.177,NA,0.8,NA,0,0,"0",0.1,1.3,"0.03",0,0,"0",0,0,"0",0,0,"0",0.9,4.9,"0.147",0,0,NA,0,0,"0"
+"Hicksville",1998,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,"0",0,0,NA,0,0,NA
+"Hamlin",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Great Neck",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Kendall",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Islip Terrace",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Carle Place",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Coram",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Patchogue",1998,0.228,0.1,1.2,NA,0,0,"0",0,0,NA,0,0,"0",0,0.3,"0.004",0.9,3.3,"0.105",0,0,NA,0.1,1.6,"0.038",0.2,3.4,"0.081"
+"Henrietta",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Baldwin",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Point Pleasant",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Bayport",1998,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA
+"Wyandanch",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Sayville",1998,2.519,4.1,23.8,"THIRD",14.9,45.9,"1.591",8,26.5,"0.914",0,0,"0",0,0,"0",0,0,"0",0,0,"0",0,0,NA,0,0.8,"0.014"
+"Main-Transit",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Spencerport",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Copiague",1998,0.007,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0.4,"0.007",0,0,NA,0,0,NA
+"Lake Placid",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Elmont",1998,0,NA,NA,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Hempstead",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Manhasset-Lakeville",1998,0.047,NA,0.1,NA,0,0,NA,0,0,"0",0.1,1.4,"0.029",0,0.3,"0.004",0,0,"0",0,0.9,"0.014",0,0,NA,0,0,NA
+"Westbury",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Merrick",1998,0.009,NA,NA,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0.6,"0.009",0,0,NA,0,0,NA
+"East Islip",1998,0.166,NA,0.4,"SECOND",0,0,"0",0,0,NA,0,0,NA,0,0,"0",0,0,"0",0.5,7.4,"0.166",0,0,NA,0,0,"0"
+"Mineola",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Brentwood",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Bellmore",1998,0,NA,NA,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"East Farmingdale",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Babylon",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Deerfield",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hewlett",1998,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Elmont",1999,0.05,NA,0.3,NA,0.3,1.9,"0.05",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"New Hyde Park",1999,0.093,NA,0.2,"FOURTH",0,0,"0",0,0.7,"0.014",0,0,"0",0.1,0.4,"0.008",0.2,1.2,"0.036",0,0.5,"0.01",0,1.1,"0.025",0,0,"0"
+"Oyster Bay TB",1999,0,NA,NA,NA,0,0,NA,0,0,"0",0,0,"0",0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,"0"
+"Main-Transit",1999,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Patchogue",1999,0.349,NA,4,NA,0,0,NA,0,0,NA,0,0,"0",0,0,"0",4.5,8.5,"0.346",0,0.3,"0.003",0,0,NA,0,0,"0"
+"Point Pleasant",1999,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Westbury",1999,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Carle Place",1999,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Islip",1999,0,NA,NA,NA,0,0,NA,0,0,"0",0,0,"0",0,0,"0",0,0,"0",0,0,"0",0,0,NA,0,0,NA
+"South Hempstead",1999,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Bay Shore",1999,0.257,NA,1.6,NA,0,0,"0",0,0,"0",0,0,"0",0,0,"0",1.9,8.5,"0.257",0,0,NA,0,0,NA,0,0,"0"
+"Copiague",1999,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Manhasset-Lakeville",1999,0.005,NA,NA,NA,0,0,"0",0,0,"0",0,0,"0",0,0.2,"0.005",0,0,"0",0,0,"0",0,0,NA,0,0,NA
+"East Farmingdale",1999,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Lindenhurst",1999,0.001,NA,NA,"THIRD",0,0,"0",0,0,"0",0,0,"0",0,0,"0",0,0,"0",0,0,"0",0,0,NA,0,0.1,"0.001"
+"Henrietta",1999,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Deerfield",1999,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Merrick",1999,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Sayville",1999,0.791,0.3,4.6,"FIRST",3.6,15.1,"0.469",0.4,8,"0.175",0,0,"0",0,0,"0",0.2,2.5,"0.055",0,0.3,"0.006",0,0,NA,0,4.7,"0.086"
+"Inwood",1999,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Melville",1999,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Huntington Manor",1999,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hewlett",1999,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Clayton",1999,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Islip Terrace",1999,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Port Washington",1999,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Farmingville",1999,0,NA,NA,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Glenwood",1999,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hicksville",1999,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Coram",1999,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Babylon",1999,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"East Islip",1999,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,"0",0,0,NA,0,0,"0"
+"Barnard",1999,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Cutchogue",1999,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hagerman",1999,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Bellmore",1999,0,NA,NA,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hempstead Yellow Hornets",1999,0.471,0.1,4.3,"FIFTH",0,0,"0",0,0,"0",0,0,"0",0,0,NA,4.9,10.9,"0.416",0,1,"0.015",0,2.4,"0.04",0,0,NA
+"Spencerport",1999,1.373,0.5,12.9,NA,14.2,35.7,"1.315",0.3,2.3,"0.056",0,0,"0",0,0,NA,0,0,NA,0,0.1,"0.002",0,0,NA,0,0,"0"
+"Saint James",1999,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Central Islip",1999,0,NA,NA,"SECOND",0,0,"0",0,0,"0",0,0,"0",0,0,"0",0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"West Islip",1999,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Lindenhurst",1999,0.039,NA,0.1,NA,0,0,"0",0,0,"0",0,0,NA,0,0,NA,0,0,NA,0.2,1.3,"0.039",0,0,NA,0,0,NA
+"Levittown",1999,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Brentwood",1999,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Baldwin",1999,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Selden",1999,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Babylon",1999,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Roslyn",1999,0,NA,NA,NA,0,0,"0",0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Hagerman",2000,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Saint James",2000,0.023,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,"0",0,1.1,"0.023",0,0,"0",0,0,NA
+"Central Islip",2000,0,NA,NA,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Manhasset-Lakeville",2000,0.186,0.1,0.2,NA,0,0,NA,0.1,4.6,"0.12",0,3.5,"0.066",0,0,"0",0,0,"0",0,0,"0",0,0,NA,0,0,NA
+"New Hyde Park",2000,0.042,NA,NA,"SECOND",0,0,"0",0,0,"0",0,0.6,"0.01",0,1.4,"0.025",0,0,"0",0,0,"0",0,0,NA,0,0.4,"0.007"
+"Henrietta",2000,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Clayton",2000,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Farmingville",2000,0,NA,NA,NA,0,0,"0",0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"East Islip",2000,0.21,NA,0.6,NA,0,0,"0",0,0,NA,0,0,"0",0.8,8,"0.204",0,0.4,"0.006",0,0,"0",0,0,NA,0,0,"0"
+"Barnard",2000,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Selden",2000,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Deerfield",2000,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Lindenhurst",2000,0.003,NA,NA,"THIRD",0,0,"0",0,0,"0",0,0,"0",0,0,"0",0,0,"0",0,0.1,"0.001",0,0.2,"0.002",0,0,"0"
+"West Carthage",2000,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Main-Transit",2000,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Sayville",2000,2.247,2.5,19.5,"FIRST",12.7,35,"1.277",5.1,24.3,"0.759",0,3.5,"0.057",0,0,"0",0,0,"0",0.1,2.3,"0.053",0,0,NA,0.4,3.5,"0.101"
+"Point Pleasant",2000,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA
+"Islip",2000,0.008,NA,NA,NA,0,0,"0",0,0,"0",0,0,"0",0,0,NA,0,0,"0",0,0,"0",0,0,"0",0,0.3,"0.008"
+"Port Washington",2000,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Spencerport",2000,0.807,0.2,3.1,NA,2.4,21.9,"0.587",0.1,4.2,"0.1",0,0.1,"0.002",0,0,"0",0.2,4.7,"0.115",0,0,"0",0,0,NA,0,0.2,"0.003"
+"Oyster Bay TB",2000,0,NA,NA,NA,0,0,NA,0,0,"0",0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0"
+"Hempstead Yellow Hornets",2000,0.3,0.1,1.2,NA,0,0,"0",0.4,7.1,"0.148",0,0,"0",0,0,"0",0,0,NA,0,0,"0",0.7,4.7,"0.152",0,0,"0"
+"Elmont",2000,0.08,NA,0.1,NA,0.2,3.7,"0.08",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Babylon",2000,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Hempstead",2000,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Bay Shore",2000,0.373,0.1,0.8,"FOURTH",0.8,8.7,"0.252",0,0,"0",0,0,"0",0,0,"0",0,0,NA,0.5,5.5,"0.121",0,0,NA,0,0,"0"
+"Copenhagen",2000,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Union Hose",2000,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"East Farmingdale",2000,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Islip Terrace",2000,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Huntington Manor",2000,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hamlin",2000,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Coram",2000,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Mineola",2000,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"South Hempstead",2000,0.003,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0.3,"0.003",0,0,NA,0,0,NA
+"Westbury",2000,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hewlett",2000,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Brentwood",2000,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Roslyn",2000,0.489,NA,4.3,"FIFTH",0,0,"0",0,0,"0",0,0.3,"0.004",0,0,"0",5,12.4,"0.465",0,0.9,"0.02",0,0,NA,0,0,"0"
+"Baldwin",2000,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Carle Place",2000,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Bellmore",2000,0,NA,NA,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Cutchogue",2000,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Patchogue",2000,0.001,NA,NA,NA,0,0,"0",0,0,"0",0,0,"0",0,0,"0",0,0.1,"0.001",0,0,"0",0,0,"0",0,0,"0"
+"Lindenhurst",2000,0,NA,NA,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,"0"
+"Hicksville",2000,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Copiague",2000,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Spencerport",2001,1.589,1.4,11.2,"FIFTH (TIE)",6.9,31.4,"1.008",4.7,17.5,"0.579",0,0.2,"0.002",0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,"0"
+"Deerfield",2001,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hagerman",2001,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Elmont",2001,0,NA,NA,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"North Bellmore",2001,0,NA,NA,NA,0,0,"0",0,0,"0",0,0,NA,0,0,"0",0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"West Islip",2001,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Cutchogue",2001,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Manhasset-Lakeville",2001,0.932,0.5,5.7,NA,0,0,"0",0.2,8.3,"0.18",1.4,13.2,"0.347",2.9,7.2,"0.277",0,0.4,"0.007",0.3,4.9,"0.121",0,0,NA,0,0,"0"
+"Brentwood",2001,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hicksville",2001,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,"0",0,0,NA
+"Islip",2001,0.096,NA,0.2,"THIRD",0,0,NA,0,0.2,"0.003",0,0,"0",0,1,"0.023",0,0,"0",0,2.3,"0.04",0,0,NA,0.1,1.3,"0.03"
+"Copiague",2001,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Oyster Bay TB",2001,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,"0",0,0,"0",0,0,NA,0,0,"0"
+"New Hyde Park",2001,2.25,4.2,20.9,"SECOND",0,0,"0",0.4,2.9,"0.081",0,0,"0",0,1,"0.022",4,14.9,"0.504",7.8,19.6,"0.727",3.5,11.9,"0.399",4.2,15.8,"0.517"
+"Hamlin",2001,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Babylon",2001,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Central Islip",2001,0.102,NA,0.6,NA,0.8,2,"0.068",0,0.8,"0.019",0,0,"0",0,0,"0",0,0.6,"0.015",0,0,"0",0,0,NA,0,0,"0"
+"Baldwin",2001,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Coram",2001,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Sayville",2001,2.514,4.2,20.6,"FIRST",4.4,21.8,"0.676",3.8,27,"0.769",1.4,28.2,"0.696",0,0,"0",0,0,NA,3.7,9.8,"0.353",0,0,NA,0,1,"0.02"
+"Freeport",2001,0.129,NA,0.3,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0.2,4.1,"0.092",0,0,NA,0.1,1.7,"0.037"
+"West Hempstead",2001,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Huntington Manor",2001,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Saint James",2001,0.118,NA,0.1,NA,0,0,NA,0,0,NA,0,0,NA,0.1,1.5,"0.04",0,3.5,"0.078",0,0,"0",0,0,"0",0,0,NA
+"Clayton",2001,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Massapequa",2001,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Copenhagen",2001,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Lindenhurst",2001,0.039,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,2.3,"0.039",0,0,"0",0,0,NA,0,0,NA
+"Henrietta",2001,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Islip Terrace",2001,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Selden",2001,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Bay Shore",2001,0.193,NA,1,NA,0.1,2.7,"0.063",0,0.2,"0.003",0,0,"0",0,0,NA,1.2,3.7,"0.125",0,0.1,"0.002",0,0,NA,0,0,"0"
+"Patchogue",2001,0.416,0.2,2.9,"FIFTH (TIE)",0,0,"0",0,0,"0",0,0,"0",0,0,"0",3.6,11.4,"0.391",0,0,"0",0.2,1,"0.025",0,0,"0"
+"Hewlett",2001,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Westbury",2001,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"West Carthage",2001,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hempstead Yellow Hornets",2001,0.647,0.1,2.5,NA,1.8,12.6,"0.368",0,0,"0",0,0,"0",0,0,NA,0.3,7.6,"0.166",0,1.5,"0.028",0.1,4.7,"0.085",0,0,"0"
+"East Islip",2001,0.438,NA,1.8,"FOURTH",0,0,"0",0,0,"0",0,1.9,"0.036",2.3,13.3,"0.399",0,0,NA,0,0,NA,0,0,NA,0,0.1,"0.003"
+"Point Pleasant",2001,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Farmingville",2001,0,NA,NA,NA,0,0,"0",0,0,"0",0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Port Washington",2001,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Lindenhurst",2001,0.007,NA,0.1,NA,0,0,"0",0,0,"0",0,0,"0",0,0,NA,0,0,"0",0,0,"0",0.1,0.2,"0.007",0,0,"0"
+"Carle Place",2001,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Merrick",2001,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"East Farmingdale",2001,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Roslyn",2001,0.185,NA,0.6,NA,0,0,"0",0,0,"0",0,0.7,"0.01",0,0.2,"0.006",0.5,4,"0.119",0.2,1.6,"0.05",0,0,NA,0,0,"0"
+"Oceanside EN",2001,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Levittown",2001,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"New Hyde Park",2002,0.819,0.4,5,"FIFTH",0,0,"0",0.6,3,"0.084",2.8,7.7,"0.291",0.8,11,"0.295",0,0,NA,0,0.6,"0.013",0,0.5,"0.006",0.3,6,"0.13"
+"Patchogue",2002,0.052,NA,0.1,NA,0,0,"0",0,0,"0",0,0,"0",0.1,1.6,"0.035",0,0.7,"0.01",0,0,"0",0,0.5,"0.007",0,0,"0"
+"West Islip",2002,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Henrietta",2002,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Riverhead",2002,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Selden",2002,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"East Farmingdale",2002,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Saint James",2002,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Main-Transit",2002,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Brentwood",2002,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Central Islip",2002,0.35,NA,1.2,NA,1.1,7.8,"0.228",0,0,NA,0,0,"0",0,0,"0",0,0,"0",0.1,6,"0.122",0,0,NA,0,0,"0"
+"Spencerport",2002,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"East Islip",2002,0.004,NA,NA,"SECOND",0,0,"0",0,0,"0",0,0,"0",0,0.2,"0.004",0,0,NA,0,0,NA,0,0,NA,0,0,"0"
+"Port Washington",2002,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Farmingville",2002,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Bellmore",2002,0.499,0.4,3.2,NA,3.7,14,"0.473",0,0,NA,0,0,"0",0,0,"0",0,0,"0",0,1.2,"0.026",0,0,NA,0,0,NA
+"Baldwin",2002,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Islip",2002,0.214,NA,0.5,"THIRD",0,0,NA,0,0,NA,0,0,"0",0,0,"0",0.2,1.9,"0.046",0,0,"0",0.3,6.5,"0.168",0,0,"0"
+"West Sayville",2002,0.696,0.2,4.1,"FOURTH",0,0.7,"0.014",3.3,17.4,"0.528",0.5,6.6,"0.154",0,0,"0",0,0,"0",0,0,"0",0,0,"0",0,0,"0"
+"North Merrick",2002,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Babylon",2002,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Cutchogue",2002,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0"
+"Oyster Bay TB",2002,0.121,NA,0.8,NA,0,0,NA,0,0,NA,0,0,NA,0.8,4.1,"0.121",0,0,NA,0,0,NA,0,0,NA,0,0,"0"
+"South Hempstead",2002,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Evans Mills",2002,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Carle Place",2002,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Merrick",2002,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Union Hose",2002,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Islip Terrace",2002,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Bay Shore",2002,0,NA,NA,NA,0,0,"0",0,0,"0",0,0,NA,0,0,"0",0,0,NA,0,0,"0",0,0,NA,0,0,"0"
+"Manhasset-Lakeville",2002,0.75,0.4,4.6,NA,0,0,NA,0.5,7,"0.174",4,14.6,"0.495",0,0,"0",0,0,"0",0,3.4,"0.081",0,0,NA,0,0,"0"
+"Lindenhurst",2002,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Copenhagen",2002,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hagerman",2002,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hempstead Yellow Hornets",2002,1.675,1.1,12,"FIRST",0.1,5.5,"0.115",0,0,"0",0,0,"0",2.6,15.5,"0.486",3.2,14.2,"0.441",0,0.7,"0.011",4.3,18.9,"0.596",0,1,"0.026"
+"West Hempstead",2002,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"North Lindenhurst",2002,0,NA,NA,NA,0,0,NA,0,0,"0",0,0,NA,0,0,"0",0,0,"0",0,0,"0",0,0,NA,0,0,"0"
+"Elmont",2002,0,NA,NA,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hicksville",2002,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Freeport",2002,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Westbury",2002,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,"0",0,0,NA,0,0,NA
+"West Carthage",2002,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Roslyn",2002,0.003,NA,NA,NA,0,0,"0",0,0,NA,0,0,"0",0,0,"0",0,0,"0",0,0.1,"0.003",0,0,"0",0,0,"0"
+"Point Pleasant",2002,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA
+"Saint James",2003,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Mineola",2003,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Sayville",2003,1.017,0.6,5.3,NA,0,0.3,"0.004",3.6,25.6,"0.766",1.2,8.2,"0.247",0,0,"0",0,0,"0",0,0,"0",0,0,"0",0,0,"0"
+"Merrick",2003,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hagerman",2003,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Westbury",2003,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,"0",0,0,NA,0,0,NA,0,0,NA
+"New Hyde Park",2003,0.429,0.1,2.1,NA,0.1,1.8,"0.038",0,0,"0",1.2,4.4,"0.146",0.2,4.2,"0.096",0,0.2,"0.004",0,0.1,"0.001",0.3,3.6,"0.102",0,1.9,"0.042"
+"Bay Shore",2003,0.014,NA,NA,"FOURTH (TIE)",0,0,"0",0,0,NA,0,0,"0",0,0,"0",0,0,NA,0,0.9,"0.014",0,0,NA,0,0,"0"
+"Port Washington",2003,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Cutchogue",2003,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,"0"
+"Roslyn",2003,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,"0",0,0,"0",0,0,"0",0,0,"0",0,0,NA,0,0,NA
+"Central Islip",2003,0.079,NA,NA,"THIRD",0,1.4,"0.024",0,0,"0",0,0,NA,0,0,"0",0,0,NA,0,0,"0",0,2.9,"0.055",0,0,NA
+"Farmingville",2003,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Carle Place",2003,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Freeport",2003,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0"
+"East Islip",2003,0.425,0.1,1.2,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,1.3,15.5,"0.425"
+"Spencerport",2003,0.864,NA,8.5,"FOURTH (TIE)",9.8,23.2,"0.864",0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,"0"
+"Copiague",2003,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Patchogue",2003,0.165,NA,1.2,NA,0,0,"0",0,0,"0",0,0,"0",0,0,"0",1.4,4.9,"0.165",0,0,"0",0,0,"0",0,0,"0"
+"North Babylon",2003,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Levittown",2003,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Syosset",2003,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Manhasset-Lakeville",2003,0.799,0.5,5.7,"SECOND",0,0,"0",0.1,3.5,"0.079",6.3,21.5,"0.717",0,0,"0",0,0,"0",0,0.1,"0.001",0,0,"0",0,0.1,"0.002"
+"West Hempstead",2003,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Oceanside EN",2003,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Lindenhurst",2003,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,"0",0,0,"0",0,0,"0",0,0,"0"
+"South Hempstead",2003,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Riverhead",2003,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Henrietta",2003,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Islip",2003,0.126,NA,0.2,"FIRST",0,0.1,"0.001",0.1,1.5,"0.03",0,0.7,"0.012",0,1.2,"0.025",0,0,"0",0.2,2,"0.058",0,0,"0",0,0,"0"
+"East Farmingdale",2003,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Baldwin",2003,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Selden",2003,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Lindenhurst",2003,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Main-Transit",2003,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Copenhagen",2003,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Oyster Bay TB",2003,0.007,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0.3,"0.007"
+"Islip Terrace",2003,0.002,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0.1,"0.002",0,0,"0",0,0,NA,0,0,NA,0,0,NA
+"West Islip",2003,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,"0",0,0,"0",0,0,NA,0,0,NA
+"North Merrick",2003,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hempstead Yellow Hornets",2003,0.214,NA,0.3,NA,0,0,"0",0,0.6,"0.008",0,0.1,"0.001",0,0.5,"0.012",0.2,5.5,"0.132",0,0,"0",0,0.2,"0.003",0,2.8,"0.058"
+"Point Pleasant",2003,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hicksville",2003,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"North Bellmore",2003,0.279,NA,0.9,NA,0.7,9.3,"0.239",0,0,"0",0.1,1.7,"0.04",0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Elmont",2003,0,NA,NA,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Bellmore",2004,0.001,NA,NA,NA,0,0,"0",0,0,NA,0,0.1,"0.001",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Westbury",2004,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA
+"West Islip",2004,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"East Farmingdale",2004,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Islip",2004,0.038,NA,NA,"THIRD",0,0,"0",0,1,"0.017",0,0.1,"0.003",0,0,"0",0,0,"0",0,0.1,"0.001",0,0.5,"0.012",0,0.2,"0.005"
+"Elsmere",2004,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Copenhagen",2004,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Henrietta",2004,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Main-Transit",2004,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Sayville",2004,0.661,0.3,3.2,"FIRST",0,0,"0",0,3.8,"0.066",2.2,13.9,"0.394",0,0,"0",0,0,"0",0.1,1,"0.025",0.3,7,"0.173",0,0.1,"0.003"
+"Carle Place",2004,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Farmingville",2004,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Carthage",2004,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Lindenhurst",2004,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Hempstead",2004,0,NA,NA,NA,0,0,"0",0,0,NA,0,0,NA,0,0,"0",0,0,"0",0,0,"0",0,0,NA,0,0,NA
+"Manhasset-Lakeville",2004,0.142,NA,0.2,"FOURTH",0,0,"0",0,0,"0",0,1.7,"0.03",0.1,4.5,"0.084",0,1.2,"0.027",0,0.1,"0.001",0,0,NA,0,0,"0"
+"Cutchogue",2004,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,"0"
+"North Greece",2004,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Elmont",2004,0,NA,NA,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"South Hempstead",2004,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,"0"
+"Union Hose",2004,0,NA,NA,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Oyster Bay TB",2004,0,NA,NA,NA,0,0,NA,0,0,"0",0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0"
+"Freeport",2004,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0"
+"Patchogue",2004,1.676,1.4,13.2,NA,0,0,"0",0,0,NA,0,0.1,"0.002",2.2,14.4,"0.441",11.4,34.9,"1.216",0,0,"0",0,0,"0",0,1.3,"0.017"
+"Baldwin",2004,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hagerman",2004,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Lindenhurst",2004,0.009,NA,NA,NA,0,0,NA,0,0,"0",0,0,"0",0,0,"0",0,0.3,"0.009",0,0,"0",0,0,NA,0,0,"0"
+"Roslyn",2004,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Lake Placid",2004,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Point Pleasant",2004,0.003,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0.2,"0.003",0,0,NA
+"Brentwood",2004,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Central Islip",2004,0.151,NA,0.8,NA,0,0,"0",0,0,"0",0,0,"0",0,0,"0",0,0,NA,0,0.4,"0.008",0.8,4.9,"0.143",0,0,"0"
+"Barnard",2004,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"New Hyde Park",2004,0.274,NA,0.8,"SECOND",0,0,"0",0,0,"0",0,0,"0",0.1,1.2,"0.035",0.8,5.9,"0.172",0,0,"0",0,0.9,"0.02",0,2.3,"0.047"
+"North Babylon",2004,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Spencerport",2004,1.299,1.5,11.4,NA,4.3,17.6,"0.573",6.7,21.2,"0.726",0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0"
+"Selden",2004,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hicksville",2004,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Port Washington",2004,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hempstead Yellow Hornets",2004,0.711,0.1,3.3,"FIFTH",0,0,"0",0,0,"0",0,0,"0",0.2,7.7,"0.194",0,1.2,"0.019",0,0,"0",0,0,"0",3.3,14.8,"0.498"
+"Atlantic Steamer",2004,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Islip Terrace",2004,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,"0",0,0,NA
+"Saint James",2004,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,"0",0,0,NA,0,0,NA,0,0,NA
+"North Merrick",2004,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Deerfield",2004,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Bay Shore",2004,0.016,NA,NA,NA,0,0,"0",0,0,"0",0,0,NA,0,0.9,"0.016",0,0,NA,0,0,"0",0,0,NA,0,0,"0"
+"East Islip",2004,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,"0"
+"Bay Shore",2005,0,NA,NA,NA,0,0,"0",0,0,"0",0,0,"0",0,0,"0",0,0,NA,0,0,"0",0,0,"0",0,0,"0"
+"West Islip",2005,0.187,0.1,1.3,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0.4,2.1,"0.065",0.9,4.5,"0.122",0,0,NA,0,0,NA
+"Freeport",2005,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Farmingville",2005,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Spencerport",2005,0.677,0.2,4.3,NA,0.4,4.2,"0.104",4.3,13.5,"0.482",0.1,3.8,"0.091",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Main-Transit",2005,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Brentwood",2005,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Hempstead",2005,0.091,NA,0.3,NA,0,0,NA,0,0,NA,0,0,NA,0,1.6,"0.031",0.3,2.2,"0.06",0,0,"0",0,0,"0",0,0,NA
+"Islip",2005,0.043,NA,NA,"FIFTH",0,0,"0",0,0,"0",0,0.2,"0.005",0,0,NA,0,0,"0",0,1.2,"0.022",0,0.6,"0.016",0,0,"0"
+"Manhasset-Lakeville",2005,0.614,0.1,2.9,NA,0,0,NA,0.4,6.2,"0.145",2.4,15.6,"0.46",0,0.6,"0.009",0,0,NA,0,0,"0",0,0,"0",0,0,NA
+"Copenhagen",2005,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Saint James",2005,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Baldwin",2005,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Point Pleasant",2005,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Elmont",2005,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Babylon",2005,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Lindenhurst",2005,0.663,0.2,5.7,"FOURTH",0,0,NA,0,0,"0",0,0,"0",0.1,0.6,"0.013",0.7,3.6,"0.097",0.1,1.2,"0.035",0,0,"0",5,15.3,"0.518"
+"Copiague",2005,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Lake Placid",2005,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Oyster Bay TB",2005,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0"
+"Atlantic Steamer",2005,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Selden",2005,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Coram",2005,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Glenwood",2005,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Massapequa",2005,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Islip Terrace",2005,0.031,NA,0.1,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0.2,"0.003",0.1,1.1,"0.028",0,0,NA,0,0,NA
+"Mineola",2005,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Carle Place",2005,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hagerman",2005,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Roslyn",2005,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Port Washington",2005,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA
+"Hempstead Yellow Hornets",2005,1.77,1.6,14.5,NA,0.1,2.7,"0.071",0,0,"0",0,0,"0",0,1.5,"0.033",0,0,"0",0,0,"0",2.3,15.9,"0.437",11.6,36,"1.229"
+"East Farmingdale",2005,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hicksville",2005,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"North Bellmore",2005,0,NA,NA,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Lindenhurst",2005,0.026,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,1.4,"0.026",0,0,"0",0,0,NA,0,0,NA,0,0,NA
+"Deerfield",2005,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"New Hyde Park",2005,0.074,NA,NA,"THIRD",0,0,"0",0,0.2,"0.003",0,0.1,"0.001",0,1.8,"0.033",0.1,0.7,"0.021",0,0,"0",0,0.5,"0.007",0,0.5,"0.009"
+"South Hempstead",2005,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"West Sayville",2005,2.471,4.2,25.5,"FIRST",0,0.5,"0.01",20.6,39.3,"1.566",2.6,15.1,"0.451",0,0.6,"0.011",0,0.1,"0.001",1.7,15.5,"0.43",0,0,"0",0,0.1,"0.002"
+"East Islip",2005,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Cutchogue",2005,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Central Islip",2005,0.009,NA,NA,NA,0,0,"0",0,0,NA,0,0,"0",0,0,"0",0,0.5,"0.007",0,0.2,"0.002",0,0,"0",0,0,"0"
+"Westbury",2005,0.002,NA,NA,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0.1,"0.002",0,0,NA,0,0,NA
+"Barnard",2005,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Holbrook",2005,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Patchogue",2005,2.395,2.8,26.7,"SECOND",0,0,NA,0,0,"0",0,2.7,"0.063",25.8,45.3,"1.853",1.5,12.8,"0.357",0,0,"0",0,1.1,"0.022",0.3,4.9,"0.1"
+"Elsmere",2005,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Clayton",2005,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Oceanside",2005,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Henrietta",2005,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Selden",2006,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Cutchogue",2006,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Copenhagen",2006,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Bellmore",2006,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"East Islip",2006,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Westbury",2006,0,NA,NA,NA,0,0,NA,0,0,"0",0,0,"0",0,0,"0",0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Roslyn",2006,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"New Hyde Park",2006,0.678,0.4,3.9,"THIRD",1.2,8.5,"0.228",0.1,1.7,"0.055",0.1,2.4,"0.055",0,0.3,"0.004",1.7,6.1,"0.198",0,0,"0",0,0,"0",0.3,5.7,"0.138"
+"West Hempstead",2006,0.088,NA,0.4,NA,0,0,NA,0,0,NA,0,0,NA,0,0.2,"0.002",0.4,3.2,"0.086",0,0,NA,0,0,NA,0,0,"0"
+"West Carthage",2006,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Carle Place",2006,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"South Hempstead",2006,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,"0",0,0,NA,0,0,NA,0,0,NA
+"Sea Breeze",2006,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Sayville",2006,2.982,7,29.3,"SECOND",0,0,"0",12.2,36.9,"1.295",2.1,14.8,"0.399",2,9.7,"0.304",0.7,4.2,"0.129",0,0,"0",8.7,24.3,"0.855",0,0,"0"
+"Islip Terrace",2006,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Lindenhurst",2006,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Islip",2006,0.25,NA,0.8,"FOURTH",0,0,NA,0,0,"0",0,2.6,"0.046",0,2.1,"0.05",0,0.9,"0.02",0.6,3.5,"0.102",0,0,NA,0,1.7,"0.032"
+"Hempstead Yellow Hornets",2006,1.911,2.2,14.7,"FIRST",0.6,11.3,"0.274",0,4.9,"0.099",0,4.1,"0.071",2.3,8.4,"0.302",0.3,6.2,"0.142",0,0,"0",0,1.2,"0.016",9.7,28.8,"1.007"
+"Lake Placid",2006,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Lindenhurst",2006,0.162,NA,1,NA,0,0,NA,0,0,"0",0,0,"0",0,0,"0",1,4.7,"0.149",0,0,NA,0,0.5,"0.013",0,0,"0"
+"West Islip",2006,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,"0",0,0,"0",0,0,NA,0,0,NA
+"Copiague",2006,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA
+"Deer Park",2006,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Levittown",2006,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Baldwin",2006,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Central Islip",2006,0.057,NA,NA,NA,0,0,"0",0,0,"0",0,0,"0",0,0.4,"0.009",0,0,NA,0,0,"0",0,2.5,"0.048",0,0,NA
+"Deerfield",2006,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Spencerport",2006,0.644,0.4,3.9,NA,0,0,"0",3.5,10.9,"0.359",0.4,7.3,"0.179",0.1,2.6,"0.054",0,0,NA,0,0,NA,0,0.7,"0.016",0,2.1,"0.036"
+"Henrietta",2006,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Coram",2006,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"East Farmingdale",2006,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Union Hose",2006,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Point Pleasant",2006,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Brentwood",2006,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Freeport",2006,0,NA,NA,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Elsmere",2006,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hicksville",2006,0,NA,NA,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Main-Transit",2006,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Atlantic Steamer",2006,0,NA,NA,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Saint James",2006,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Sayville",2006,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Riverhead",2006,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Manhasset-Lakeville",2006,0.15,NA,0.7,"FIFTH",0,0,NA,0,0,"0",0,0.4,"0.007",0.8,4.5,"0.143",0,0,"0",0,0,"0",0,0,NA,0,0,"0"
+"Patchogue",2006,0.59,0.1,4.1,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA,4.4,16.6,"0.566",0,0,NA,0,1.1,"0.024",0,0,"0"
+"Port Washington",2006,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Elmont",2006,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Bay Shore",2006,0.032,NA,NA,NA,0,0,NA,0,0,"0",0,0,"0",0,0,"0",0.1,1.1,"0.032",0,0,NA,0,0,NA,0,0,"0"
+"Clayton",2006,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Islip",2007,0.002,NA,NA,NA,0,0,"0",0,0,"0",0,0.1,"0.002",0,0,"0",0,0,"0",0,0,"0",0,0,NA,0,0,NA
+"Central Islip",2007,0.257,NA,0.6,NA,0,0,"0",0,0,NA,0,0,NA,0,0,"0",0,0,NA,0.2,8.1,"0.191",0.4,2.1,"0.066",0,0,"0"
+"Brentwood",2007,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Elmont",2007,0,NA,NA,NA,0,0,"0",0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Manhasset-Lakeville",2007,0.024,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0.1,1.2,"0.024",0,0,"0",0,0,"0",0,0,NA,0,0,NA
+"Coram",2007,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"East Farmingdale",2007,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Islip",2007,0.146,NA,0.3,NA,0,0,NA,0,0,"0",0.1,4,"0.092",0.1,1.4,"0.031",0,0,"0",0.1,0.9,"0.018",0,0.2,"0.005",0,0,"0"
+"Elsmere",2007,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Copenhagen",2007,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Selden",2007,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Riverhead",2007,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Deerfield",2007,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Main-Transit",2007,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"East Islip",2007,0,NA,NA,NA,0,0,"0",0,0,NA,0,0,NA,0,0,"0",0,0,"0",0,0,"0",0,0,NA,0,0,NA
+"North Bellmore",2007,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Bay Shore",2007,0.023,NA,NA,"FIFTH",0,0,NA,0,0,NA,0,0,"0",0,1,"0.021",0,0,NA,0,0.2,"0.002",0,0,"0",0,0,"0"
+"Copiague",2007,0,NA,NA,NA,0,0,"0",0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Roslyn",2007,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Clayton",2007,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Levittown",2007,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Babylon",2007,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Oyster Bay TB",2007,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hicksville",2007,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Glenwood",2007,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Henrietta",2007,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"New Hyde Park",2007,0.422,0.1,0.9,"THIRD",0,6.2,"0.113",0.1,4.1,"0.085",0,0,"0",0,0,"0",0.2,1.1,"0.03",0,0,"0",0.1,3.1,"0.075",0.4,4.4,"0.119"
+"Freeport",2007,0.009,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0.4,"0.009",0,0,NA,0,0,"0"
+"North Lindenhurst",2007,0.131,NA,0.4,NA,0,0,NA,0,0.1,"0.002",0,0,"0",0,0,"0",0,0,"0",0,0.3,"0.003",0,0.1,"0.001",0.4,4.5,"0.125"
+"West Hempstead",2007,0.081,NA,0.2,NA,0,0,NA,0,0,NA,0,0,"0",0.2,3.2,"0.07",0,0,"0",0,0,"0",0,0,"0",0,0.7,"0.011"
+"Saint James",2007,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Spencerport",2007,0.002,NA,NA,NA,0,0,NA,0,0,NA,0,0.2,"0.002",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0"
+"Sayville",2007,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Carle Place",2007,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Lindenhurst",2007,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA
+"Patchogue",2007,0.227,0.1,2.3,"FOURTH",0,0,"0",0,0,"0",0,0,"0",1.6,4,"0.147",1,1.7,"0.073",0,0,"0",0,0.3,"0.004",0,0.2,"0.003"
+"South Hempstead",2007,0.043,NA,0.2,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0.2,0.8,"0.026",0,0.8,"0.017",0,0,NA,0,0,NA
+"Hempstead Yellow Hornets",2007,0.909,0.4,3.7,"SECOND",0.5,13.8,"0.301",0.1,0.1,"0.005",0,0,"0",0,0.1,"0.002",0,2.4,"0.048",0,0.2,"0.003",0,0,"0",1.4,21.4,"0.55"
+"Point Pleasant",2007,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Sayville",2007,3.967,13.3,39.7,"FIRST",0,0.8,"0.009",2.9,24,"0.655",15.7,40.9,"1.439",11.5,29.5,"1.102",2.9,11.4,"0.356",0,0.6,"0.009",0.4,15.9,"0.397",0,0,"0"
+"Port Washington",2007,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Cutchogue",2007,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Westbury",2007,0.047,NA,NA,NA,0,2.5,"0.047",0,0,"0",0,0,"0",0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA
+"Baldwin",2007,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Copenhagen",2008,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Henrietta",2008,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Oyster Bay TB",2008,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Deerfield",2008,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Spencerport",2008,0,NA,NA,NA,0,0,NA,0,0,"0",0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0"
+"North Bellmore",2008,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Roslyn",2008,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Cutchogue",2008,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Islip",2008,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"New Hyde Park",2008,1.405,0.8,11.9,"SECOND",0,0.6,"0.013",0,0,"0",0,0,"0",1.6,13.5,"0.38",0,0,NA,0,0,"0",10.5,27.5,"1.012",0,0,"0"
+"Westbury",2008,0,NA,NA,NA,0,0,"0",0,0,"0",0,0,"0",0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,"0"
+"Sayville",2008,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Selden",2008,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"East Islip",2008,0.195,0.1,0.3,NA,0,0.5,"0.01",0,0,NA,0,0,NA,0,3,"0.066",0.1,1.2,"0.02",0,0,NA,0.1,3.9,"0.099",0,0,"0"
+"Copiague",2008,0.062,NA,0.5,NA,0,0,"0",0,0,NA,0,0,"0",0,0,NA,0.6,1.8,"0.062",0,0,"0",0,0,NA,0,0,NA
+"Islip",2008,0.547,0.1,2.6,"FIRST",0,0,"0",0.2,1.7,"0.052",2.2,14.1,"0.422",0,0.7,"0.008",0,0,"0",0,0,"0",0.6,2.2,"0.065",0,0,"0"
+"Bay Shore",2008,0,NA,NA,NA,0,0,NA,0,0,"0",0,0,"0",0,0,"0",0,0,"0",0,0,"0",0,0,NA,0,0,NA
+"Riverhead",2008,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Lake Placid",2008,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Louisville",2008,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Islip Terrace",2008,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Sea Breeze",2008,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"South Hempstead",2008,0.037,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0.4,"0.007",0,0.1,"0.001",0,1.8,"0.029",0,0,NA
+"Baldwin",2008,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Elmont",2008,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Sayville",2008,5.427,22.7,58.1,"THIRD",1.2,13.8,"0.368",10.6,48.5,"1.62",27.6,64.2,"2.51",1,12.8,"0.342",1,5.6,"0.161",1.7,8.6,"0.263",0.5,6.4,"0.153",0,0.7,"0.01"
+"Brentwood",2008,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Elsmere",2008,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Central Islip",2008,1.395,1.7,9.7,NA,0,0,"0",0,0,"0",1.6,6.5,"0.196",0,0.2,"0.004",0.7,1.9,"0.07",2.3,17.3,"0.517",3.7,18.8,"0.608",0,0,"0"
+"Carle Place",2008,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Main-Transit",2008,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Point Pleasant",2008,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Union Hose",2008,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Lindenhurst",2008,0.515,0.1,1.7,"FOURTH",0,0,NA,0,0.3,"0.004",0,0,"0",0,0,"0",0,0,"0",0,0,"0",0,0.7,"0.013",1.9,17.7,"0.498"
+"Glenwood",2008,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Freeport",2008,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"East Farmingdale",2008,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Lindenhurst",2008,0.037,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,1.4,"0.037",0,0,NA
+"Hempstead Yellow Hornets",2008,0.755,0.4,7.6,"FIFTH",0,0,"0",0,0.2,"0.002",0,0,"0",0,2.5,"0.053",0.9,2.7,"0.086",0.2,1.7,"0.036",0,0.1,"0.001",7.2,14.9,"0.577"
+"Manhasset-Lakeville",2008,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,"0",0,0,NA
+"Hicksville",2008,0.222,NA,0.4,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0.6,8.3,"0.222",0,0,NA,0,0,NA
+"Port Washington",2008,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Coram",2008,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Saint James",2008,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Clayton",2008,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Hempstead",2008,0.441,0.2,3.9,NA,0,0,NA,0,0,NA,0,0,"0",0,0,"0",0,0,"0",0,0,"0",4.5,12.3,"0.441",0,0,NA
+"Syosset",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"South Hempstead",2009,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Freeport",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Bay Shore",2009,0,NA,NA,NA,0,0,"0",0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,"0",0,0,NA
+"Henrietta",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Lake Placid",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Clayton",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hempstead Yellow Hornets",2009,0.748,0.3,5,"FOURTH",0.3,6.2,"0.142",0,0.1,"0.001",0,0,"0",0,0.4,"0.007",0,0,"0",0,0,"0",4.6,18,"0.586",0,0.6,"0.012"
+"Hicksville",2009,0,NA,NA,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Point Pleasant",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Central Islip",2009,1.084,0.8,8.2,NA,0.1,0.3,"0.007",0,0.1,"0.002",0,0.8,"0.017",0,0,"0",0.1,3.4,"0.067",0.3,8.6,"0.221",5.4,15.7,"0.542",1.2,7.5,"0.228"
+"East Islip",2009,0.591,0.6,3.8,NA,0.5,1.8,"0.057",0,0,NA,0,0,"0",0.8,5.1,"0.148",2.8,9.6,"0.341",0,0,"0",0.1,1.9,"0.045",0,0,NA
+"Deer Park",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Delmar",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Garden City Park",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Spencerport",2009,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,"0"
+"Copiague",2009,0,NA,NA,NA,0,0,"0",0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Main-Transit",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Sayville",2009,1.666,1.3,12.2,"FIRST",0,4.4,"0.075",2.2,21,"0.576",0.3,13.4,"0.257",0.3,6.2,"0.157",0.1,3.6,"0.089",0,0.3,"0.003",1.3,7.9,"0.226",2.4,9,"0.283"
+"New Hyde Park",2009,0.03,NA,NA,"FIFTH",0,0,NA,0,0,NA,0,0,"0",0,1.6,"0.03",0,0,NA,0,0,NA,0,0,"0",0,0,NA
+"Merrick",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Islip Terrace",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Sayville",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Atlantic Steamer",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Massapequa",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Glenwood",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Brentwood",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Coram",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Lindenhurst",2009,0.383,NA,1.5,"THIRD",0,0,"0",0,0.1,"0.001",0,0,"0",0,0,"0",0,0,"0",0,0,"0",0,0.3,"0.005",1.7,13.1,"0.377"
+"Islip",2009,0.681,0.2,2.2,"SECOND",0,0,"0",0.1,1.3,"0.027",0.7,14.3,"0.371",0,0.1,"0.002",0,0.1,"0.001",0.4,4.5,"0.108",0.8,5.7,"0.172",0,0,"0"
+"Cutchogue",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Roslyn",2009,0,NA,NA,NA,0,0,NA,0,0,"0",0,0,"0",0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Oyster Bay TB",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Copenhagen",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hagerman",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Elmont",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Hempstead",2009,0.053,NA,0.3,NA,0,0,NA,0,0,"0",0,0,"0",0,0,"0",0.4,1.6,"0.053",0,0,NA,0,0,NA,0,0,NA
+"Riverhead",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Baldwin",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Lindenhurst",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Bellmore",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Elsmere",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Selden",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Saint James",2009,0.004,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0.2,"0.004",0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Islip",2009,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Port Washington",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Manhasset-Lakeville",2009,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,"0",0,0,"0",0,0,NA,0,0,NA
+"North Babylon",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Carle Place",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Levittown",2009,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Westbury",2009,0.008,NA,NA,NA,0,0,"0",0,0,"0",0,0.5,"0.008",0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,"0"
+"Lake Placid",2010,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Selden",2010,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hempstead Yellow Hornets",2010,1.016,0.5,7,"FOURTH",0,0.1,"0.001",0,0,"0",0,0.3,"0.003",5.3,16.1,"0.565",0,0,"0",0,0,"0",0,0,"0",1.8,16.3,"0.447"
+"Freeport",2010,0.006,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,"0",0,0.4,"0.006",0,0,NA,0,0,NA
+"East Farmingdale",2010,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Baldwin",2010,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Westbury",2010,0.063,NA,0.1,NA,0.2,2.9,"0.063",0,0,"0",0,0,"0",0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,"0"
+"Clayton",2010,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Brentwood",2010,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Sayville",2010,3.166,8.7,26.2,"SECOND",0.2,4.7,"0.104",1.9,12.6,"0.372",5.2,41,"1.223",0.6,7.8,"0.192",3,18.6,"0.555",0.1,2.6,"0.053",4.9,19.6,"0.653",0,0.7,"0.014"
+"Levittown",2010,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Cutchogue",2010,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Hempstead",2010,0,NA,NA,NA,0,0,"0",0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Manhasset-Lakeville",2010,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Lindenhurst",2010,0.634,0.1,2.7,NA,0,0,"0",0,0,"0",0,0,"0",0.5,6.7,"0.177",0.8,5.2,"0.136",0,2.5,"0.053",0,0,"0",1.2,10.6,"0.268"
+"East Islip",2010,0.193,NA,0.3,"FIFTH",0,1,"0.03",0,0,NA,0,0,"0",0,5.3,"0.094",0.3,1.7,"0.05",0,0,"0",0.1,1,"0.019",0,0,NA
+"Roslyn",2010,0.04,NA,0.2,NA,0,0,NA,0,0,NA,0,0,"0",0,0.1,"0.002",0.2,1.4,"0.038",0,0,"0",0,0,NA,0,0,NA
+"North Bellmore",2010,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Henrietta",2010,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Islip",2010,0.894,0.2,6.5,"THIRD",0,0,"0",0,0,"0",6.1,21.9,"0.732",0,0,"0",0,3.4,"0.073",0,1.2,"0.024",0,0,"0",0.1,3,"0.065"
+"West Carthage",2010,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Babylon",2010,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Riverhead",2010,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Port Washington",2010,0.152,NA,0.8,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0.8,5.3,"0.152",0,0,NA,0,0,NA
+"Central Islip",2010,1.865,1.9,13.6,"FIRST",0,0,"0",0,0.2,"0.006",1.4,13.5,"0.379",0.4,4.7,"0.132",0.1,3.7,"0.065",0.3,10.2,"0.251",4.8,32.1,"0.923",0.1,4.7,"0.109"
+"Deer Park",2010,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Saint James",2010,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Lindenhurst",2010,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Oyster Bay TB",2010,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Bay Shore",2010,0.221,0.1,1,NA,0,0,NA,0,0,NA,0,0,NA,0.9,5.2,"0.157",0.2,2.5,"0.064",0,0,"0",0,0,NA,0,0,NA
+"Elmont",2010,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Glenwood",2010,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Elsmere",2010,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"New Hyde Park",2010,0.228,0.1,0.5,NA,0,0,"0",0,0,NA,0,0.5,"0.013",0.6,6.7,"0.178",0,0.1,"0.002",0,1.8,"0.035",0,0,NA,0,0,NA
+"Sayville",2010,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"South Hempstead",2010,0.015,NA,0.1,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0.1,0.6,"0.015",0,0,NA,0,0,NA
+"Deerfield",2010,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Louisville",2010,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Spencerport",2010,0.002,NA,NA,NA,0,0,NA,0,0,"0",0,0.1,"0.002",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hicksville",2010,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Main-Transit",2010,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0"
+"Copiague",2010,0.047,NA,NA,NA,0,0.2,"0.004",0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,1.9,"0.043",0,0,NA
+"Coram",2010,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Point Pleasant",2010,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Norfolk",2010,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Copenhagen",2010,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Islip Terrace",2010,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Baldwin",2011,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Bay Shore",2011,0.136,NA,0.4,"FOURTH",0,0,NA,0,0,NA,0,0,NA,0,3.3,"0.058",0,0,NA,0,0,NA,0.4,2.9,"0.078",0,0,NA
+"Brentwood",2011,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Carle Place",2011,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Central Islip",2011,2.527,3,26.6,"THIRD",0,2.8,"0.052",0.3,2.5,"0.078",0,0.1,"0.001",0,0.4,"0.01",0.7,10.1,"0.236",23.7,50.1,"1.964",0.4,3.1,"0.084",0.6,3.2,"0.102"
+"Clayton",2011,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Copenhagen",2011,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Copiague",2011,0.336,NA,2,NA,0,0,"0",0,1.4,"0.032",0,0,"0",0,0,"0",0,0,NA,0.2,1.8,"0.05",1.7,7.4,"0.254",0,0,NA
+"Coram",2011,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Cutchogue",2011,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Deer Park",2011,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Deerfield",2011,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"East Islip",2011,0.593,0.2,2.2,NA,0,0,"0",0,0,"0",0,4,"0.079",2.2,17.4,"0.504",0,0,"0",0,0,"0",0,0.6,"0.01",0,0,NA
+"Elmont",2011,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Elsmere",2011,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Farmingville",2011,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Freeport",2011,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Glenwood",2011,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Great Bend",2011,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hempstead Yellow Hornets",2011,0.145,NA,0.7,"FIFTH",0,0,"0",0,0,"0",0,0,NA,0,0,NA,0.3,1.8,"0.053",0,0,"0",0,0.2,"0.002",0.4,3,"0.09"
+"Henrietta",2011,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hicksville",2011,0,NA,NA,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Islip",2011,0,NA,NA,NA,0,0,NA,0,0,"0",0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Levittown",2011,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Lindenhurst",2011,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA
+"Main-Transit",2011,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0"
+"Manhasset-Lakeville",2011,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Medford",2011,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Miller Place",2011,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"New Hyde Park",2011,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"North Babylon",2011,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"North Bellmore",2011,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Lindenhurst",2011,0.875,0.6,5,"SECOND",0,0,"0",0,0,"0",0,0,"0",0.2,15,"0.347",4.2,12,"0.444",0,0.1,"0.001",0,0,NA,0.2,3.6,"0.083"
+"Oyster Bay TB",2011,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Patchogue",2011,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Point Pleasant",2011,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Port Washington",2011,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Riverhead",2011,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Rockville Centre WDL",2011,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Roslyn",2011,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,"0",0,0,"0",0,0,"0",0,0,"0",0,0,NA,0,0,NA
+"Saint James",2011,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Sayville",2011,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Sea Breeze",2011,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Selden",2011,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Spencerport",2011,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Hempstead",2011,0.061,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0.1,2.5,"0.061",0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Sayville",2011,1.977,2.3,15.1,"FIRST",0,0,"0",0.9,15.4,"0.382",9.2,31.2,"1.076",0.2,7.3,"0.162",0.1,4.9,"0.102",0.3,1.6,"0.042",0.9,7.9,"0.213",0,0,"0"
+"Westbury",2011,0,NA,NA,NA,0,0,NA,0,0,"0",0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Deerfield",2012,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Sayville",2012,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Islip",2012,0.579,0.1,3,"FOURTH (TIE)",0,0,"0",0,0,"0",0,0,"0",2.1,8.4,"0.259",0,0,"0",0,0,"0",0.8,12.3,"0.32",0,0,NA
+"Riverhead",2012,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Elsmere",2012,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Lake Placid",2012,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Babylon",2012,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Bay Shore",2012,0.189,NA,1.8,NA,0,0,NA,0,0,"0",0,0,"0",0,0,"0",0,0.1,"0.001",0,0.5,"0.012",1.9,4.9,"0.176",0,0,"0"
+"Saint James",2012,0.025,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,1.1,"0.025",0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Coram",2012,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Henrietta",2012,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"North Lindenhurst",2012,0.205,NA,0.6,NA,0,0,NA,0,0,"0",0,0,"0",0.1,4.1,"0.105",0,0,"0",0,0,"0",0.5,2.6,"0.088",0,0.6,"0.012"
+"East Islip",2012,1.457,0.4,10.2,NA,0,0,NA,0,0,"0",0,0,"0",11,39.5,"1.357",0.2,3.3,"0.079",0,0,"0",0,1,"0.021",0,0,NA
+"Glenwood",2012,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"East Farmingdale",2012,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Main-Transit",2012,0.001,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0.1,"0.001"
+"Copiague",2012,0.007,NA,NA,NA,0,0.4,"0.006",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0.1,"0.001",0,0,NA,0,0,NA
+"Hicksville",2012,0,NA,NA,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Sheridan Park",2012,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Baldwin",2012,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Cutchogue",2012,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Great Bend",2012,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Deer Park",2012,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Carle Place",2012,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Levittown",2012,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Oyster Bay TB",2012,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Sayville",2012,1.113,0.8,6.1,"THIRD",0,0,"0",0,2.3,"0.044",0,1.8,"0.037",0.6,4.1,"0.097",2.1,14.6,"0.425",0,1.1,"0.027",2.3,17.1,"0.474",0,0.6,"0.009"
+"Port Washington",2012,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Copenhagen",2012,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Hempstead",2012,0.101,NA,0.3,"FIRST",0,0,"0",0,0,"0",0,0,"0",0,0,"0",0.3,3,"0.095",0,0.3,"0.006",0,0,NA,0,0,"0"
+"Point Pleasant",2012,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Louisville",2012,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Manhasset-Lakeville",2012,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Bellmore",2012,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Brentwood",2012,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Central Islip",2012,2.888,6.4,27.6,"FOURTH (TIE)",0.1,6.6,"0.129",0,0,"0",0,0,"0",0,0,"0",1.3,9.2,"0.249",3.6,31.1,"0.906",17.1,34.3,"1.356",0.8,8.8,"0.248"
+"New Hyde Park",2012,0.012,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0.5,"0.01",0,0,NA,0,0.1,"0.002",0,0,NA
+"Westbury",2012,0.051,NA,0.7,NA,0.7,1.4,"0.051",0,0,NA,0,0,"0",0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Roslyn",2012,0.022,NA,NA,"SECOND",0,0,"0",0,0,"0",0,0,"0",0,0,"0",0,1,"0.022",0,0,"0",0,0,NA,0,0,NA
+"West Islip",2012,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Clayton",2012,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Spencerport",2012,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Lindenhurst",2012,0.114,NA,0.2,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0.5,4.1,"0.114",0,0,NA,0,0,NA,0,0,NA
+"Selden",2012,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Bay Shore",2014,0.226,0.1,0.6,NA,0,0,"0",0,0,NA,0,0,"0",0.3,2.8,"0.072",0,0,"0",0.2,6,"0.154",0,0,NA,0,0,NA
+"Levittown",2014,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Selden",2014,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Baldwin",2014,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Deerfield",2014,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Henrietta",2014,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Clayton",2014,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Louisville",2014,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Amityville",2014,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Brentwood",2014,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Islip",2014,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hicksville",2014,0,NA,NA,NA,0,0,NA,0,0,"0",0,0,"0",0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA
+"Elmont",2014,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Babylon",2014,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Oyster Bay TB",2014,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Babylon",2014,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Glenwood",2014,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Greece",2014,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Point Pleasant",2014,0,NA,NA,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Sea Breeze",2014,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Manhasset-Lakeville",2014,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"North Lindenhurst",2014,0.179,NA,0.7,"THIRD",0,0,NA,0,0,"0",0,0.7,"0.012",0,0,"0",0,0,"0",0.7,5.1,"0.136",0,2.1,"0.031",0,0,"0"
+"Riverhead",2014,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Westbury",2014,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,"0",0,0,"0",0,0,NA,0,0,NA
+"Deer Park",2014,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Islip",2014,1.004,0.7,6.7,NA,0.4,7.9,"0.202",0,0,"0",0,0,"0",0,0,"0",0,0,NA,7.3,21.6,"0.769",0,1.4,"0.033",0,0,NA
+"East Farmingdale",2014,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Bellmore",2014,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Sayville",2014,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Carthage",2014,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Spencerport",2014,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Main-Transit",2014,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Great Bend",2014,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Copenhagen",2014,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Elsmere",2014,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hempstead Yellow Hornets",2014,0.52,0.2,4.8,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0.1,1.9,"0.041",5.2,12.9,"0.479",0,0,"0",0,0,NA
+"Farmingville",2014,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Rockville Centre WDL",2014,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"New Hyde Park",2014,0.001,NA,NA,"FIFTH",0,0,NA,0,0,NA,0,0,"0",0,0,"0",0,0.1,"0.001",0,0,"0",0,0,NA,0,0,NA
+"Roslyn",2014,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"West Hempstead",2014,0.037,NA,NA,NA,0,0,"0",0,0.4,"0.007",0,0,"0",0,0.9,"0.023",0,0.1,"0.001",0,0,"0",0,0,"0",0,0.4,"0.006"
+"Port Washington",2014,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,"0",0,0,"0",0,0,NA,0,0,"0",0,0,NA,0,0,"0"
+"Lindenhurst",2014,0.076,NA,0.5,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0.5,2.5,"0.076",0,0,NA,0,0,NA
+"Copiague",2014,0.081,NA,0.6,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0.6,3,"0.081",0,0,NA,0,0,NA
+"East Islip",2014,1.012,0.7,8.3,"FOURTH",0,0,"0",0,0,"0",0,0,"0",7.5,20,"0.721",0.8,7.9,"0.219",0,0,"0",0.1,3.9,"0.072",0,0,"0"
+"West Sayville",2014,0.186,NA,0.4,"SECOND",0,0,"0",0,0.5,"0.005",0,0,"0",0.4,6.5,"0.162",0,0,"0",0.2,0.8,"0.019",0,0,"0",0,0,"0"
+"Central Islip",2014,1.925,1.9,13.2,"FIRST",0.1,2.5,"0.048",0,0,"0",0,0,"0",0.4,6.1,"0.153",0,1.1,"0.027",0.2,5.1,"0.107",3.5,30.4,"0.827",5.2,24.7,"0.763"
+"Westbury",2015,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,"0",0,0,NA,0,0,NA,0,0,NA
+"Manhasset-Lakeville",2015,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Selden",2015,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Sea Breeze",2015,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Carle Place",2015,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Brentwood",2015,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Spencerport",2015,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Levittown",2015,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Rockville Centre WDL",2015,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Baldwin",2015,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Islip",2015,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Cutchogue",2015,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Merrick BE",2015,0.016,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0.8,"0.016",0,0,NA,0,0,NA
+"Main-Transit",2015,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Lindenhurst",2015,0.358,NA,1.7,"FOURTH",0,0,NA,0,0.3,"0.007",0,0,"0",0,0,"0",0,0.4,"0.008",0,0,"0",2,11.3,"0.343",0,0,NA
+"Clayton",2015,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"East Farmingdale",2015,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Riverhead",2015,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Islip",2015,0.88,0.1,5.1,"THIRD",0,2.9,"0.069",0,0.3,"0.005",0,0.8,"0.01",0,0,"0",0,0,NA,6.1,24.1,"0.796",0,0,"0",0,0,"0"
+"Hempstead Yellow Hornets",2015,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,"0",0,0,NA,0,0,NA,0,0,NA
+"Deer Park",2015,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Elsmere",2015,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Roslyn",2015,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Copenhagen",2015,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Great Bend",2015,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Henrietta",2015,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hicksville",2015,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Sayville",2015,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Bellmore",2015,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Port Washington",2015,0.038,NA,NA,NA,0,0,NA,0,0,NA,0,0,"0",0,0,"0",0,0,"0",0,2.2,"0.038",0,0,"0",0,0,"0"
+"Farmingville",2015,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"West Hempstead",2015,0.092,NA,0.2,"FIFTH",0,0,"0",0,0.6,"0.01",0,0,"0",0,0,"0",0.2,3.6,"0.08",0,0,NA,0,0,NA,0,0.1,"0.002"
+"New Hyde Park",2015,0.044,NA,0.1,NA,0,0,NA,0,0,NA,0,0,"0",0,0.3,"0.004",0.1,1.5,"0.04",0,0,"0",0,0,NA,0,0,NA
+"Miller Place",2015,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"East Islip",2015,0.002,NA,NA,NA,0,0,"0",0,0,NA,0,0,"0",0,0.1,"0.002",0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Point Pleasant",2015,0,NA,NA,NA,0,0,"0",0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Central Islip",2015,3.513,10.6,35.6,"FIRST (TIE)",0.4,4.1,"0.109",0.1,3.5,"0.069",0.1,6.3,"0.152",2.3,9.5,"0.332",5,15.8,"0.558",6.2,25.8,"0.845",0,0,"0",19,35.8,"1.448"
+"Lindenhurst",2015,0.105,NA,0.9,NA,0,0,"0",0,0,NA,0,0,"0",0,0,"0",0,0,NA,0.9,3.4,"0.105",0,0,NA,0,0,NA
+"West Sayville",2015,0.143,NA,0.3,"FIRST (TIE)",0,0,"0",0.3,3.1,"0.088",0,0,"0",0,1.4,"0.027",0,0.6,"0.011",0,0.2,"0.003",0,0,NA,0,0.7,"0.014"
+"Bay Shore",2015,0.046,NA,NA,NA,0,0,"0",0,0,NA,0,0,"0",0,2.4,"0.046",0,0,"0",0,0,"0",0,0,NA,0,0,"0"
+"Copiague",2015,0.005,NA,NA,NA,0,0.4,"0.005",0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,"0",0,0,NA,0,0,NA
+"Roslyn",2013,0.007,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0.2,"0.007",0,0,NA,0,0,NA,0,0,NA
+"Sayville",2013,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"East Islip",2013,0.263,NA,1.5,"FIFTH",0,0,NA,0,0,"0",0,0,"0",1,5.6,"0.171",0.6,2.8,"0.092",0,0,"0",0,0,"0",0,0,NA
+"Coram",2013,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"East Farmingdale",2013,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Hempstead",2013,0.655,0.2,4.2,"FOURTH",0,0,"0",0,0.5,"0.008",0,0,"0",0,0.8,"0.012",2.7,10.3,"0.332",0,0.7,"0.016",0,0,"0",1.7,9.8,"0.287"
+"Westbury",2013,0,NA,NA,NA,0,0,"0",0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Henrietta",2013,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Port Washington",2013,0.027,NA,NA,NA,0,0,NA,0,0,NA,0,0,"0",0,0,"0",0,0,"0",0,1.5,"0.027",0,0,NA,0,0,NA
+"Carle Place",2013,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Manhasset-Lakeville",2013,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Glenwood",2013,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Islip",2013,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Saint James",2013,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Babylon",2013,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Amityville",2013,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Cutchogue",2013,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Rocky Point",2013,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Clayton",2013,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Great Bend",2013,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Selden",2013,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Deerfield",2013,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Baldwin",2013,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Levittown",2013,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Riverhead",2013,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Copiague",2013,0,NA,NA,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Deer Park",2013,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"New Hyde Park",2013,0.042,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,1.9,"0.042",0,0,"0",0,0,NA,0,0,NA
+"Oyster Bay TB",2013,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Brentwood",2013,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Central Islip",2013,2.703,5.3,23.4,"FIRST",2.5,14.2,"0.441",0,0.3,"0.003",0,4.4,"0.092",1.7,14.2,"0.39",0,3.4,"0.066",5.5,25.3,"0.814",0.4,6.6,"0.156",6.4,21.5,"0.741"
+"Spencerport",2013,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Lake Placid",2013,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Copenhagen",2013,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"North Bellmore",2013,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hempstead Yellow Hornets",2013,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,0,0,"0",0,0,NA,0,0,NA
+"Main-Transit",2013,0,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0"
+"North Lindenhurst",2013,0.512,0.3,4.2,"THIRD",0,0,NA,0,0,"0",0,0,"0",0,1.2,"0.022",0,0,NA,4.8,13.9,"0.487",0,0.2,"0.003",0,0,NA
+"Rockville Centre WDL",2013,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Farmingville",2013,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Hicksville",2013,0.656,NA,4,NA,0,0,NA,0,0,"0",0,0,NA,0,0,NA,0,0,NA,4.3,20.6,"0.656",0,0,NA,0,0,"0"
+"Lindenhurst",2013,0.031,NA,0.3,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0.3,1,"0.031",0,0,NA,0,0,NA
+"Bay Shore",2013,0.45,0.1,2,NA,0,0,NA,0,0,NA,0,0,NA,0,0,"0",0,0,NA,2.5,15.5,"0.45",0,0,"0",0,0,NA
+"Point Pleasant",2013,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"West Sayville",2013,0.32,NA,1.1,NA,0,0,"0",0,0,"0",0,0,"0",0,1,"0.024",1.4,10,"0.291",0,0.4,"0.005",0,0,"0",0,0,"0"
+"Islip",2013,0.502,NA,2,"SECOND",1.4,8.1,"0.227",0,0,"0",0,1.4,"0.025",0,1.2,"0.018",0,2.1,"0.041",0.6,6.8,"0.191",0,0,"0",0,0,NA
+"Rocky Point",2015,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Medford",2015,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
+"Bellmore",2013,NA,NA,NA,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA,0,0,NA
